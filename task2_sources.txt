@@ -1,0 +1,4 @@
+Task 2 Sources:
+Tech Jobs with details : https://www.jobbank.gc.ca/trend-analysis/search-occupations
+Tech Occupancy by cities of Canada : https://theprovince.com/business/commercial-real-estate/canadas-top-10-tech-talent-cities-ranked/wcm/123c8c5c-6701-4202-a440-b019f2978737
+Tech Jobs in Canada (Data + Stats) : https://brookfieldinstitute.ca/wp-content/uploads/FINAL-Tech-Workers-ONLINE.pdf
